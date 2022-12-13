@@ -1,4 +1,4 @@
-# Data_Analysis_using_Excel_Formula
+# Data_Analysis_using_Excel_Formulas
 ### Overview
 Analyzing supermarket sales data using formulas in Microsoft Excel.
 ### Dataset
