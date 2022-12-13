@@ -1,6 +1,6 @@
 # Data_Analysis_using_Excel_Formulas
 ### Overview
-Analyzing supermarket sales data using formulas in Microsoft Excel.
+Analyze supermarket sales data using formulas in Microsoft Excel.
 ### Dataset
 I am using [dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) from kaggle.com 
 ### Question
